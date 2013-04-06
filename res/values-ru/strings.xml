@@ -5,5 +5,18 @@
     <string name="action_settings">Настройки</string>
     <string name="exit">Выйти</string>
     <string name="sign_up">Зарегистрироваться</string>
-
+    <string name="title_activity_registration">Регистрация</string>
+    <string name="birth_date">Дата рождения</string>
+    <string name="full_name">Ф. И. О.</string>
+    <string-array name="City">
+        <item >Санкт-Петербург</item>
+        <item >Москва</item>
+        <item >Бишкек</item>
+    </string-array>
+    <string name="city">Родной город</string>
+    <string name="hobby">Ваши хобби</string>
+    <string name="hobby1">сквош</string>
+    <string name="hobby2">танцы</string>
+    <string name="hobby3">русская поэзия</string>
+    <string name="hobby4">игра в шахматы</string>
 </resources>

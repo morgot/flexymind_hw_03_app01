@@ -8,6 +8,7 @@ import android.support.v4.app.NavUtils;
 import android.annotation.TargetApi;
 import android.os.Build;
 
+
 public class RegistrationActivity extends Activity {
 
 	@Override

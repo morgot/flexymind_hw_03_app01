@@ -25,7 +25,8 @@
         <activity
             android:name="com.example.app01.RegistrationActivity"
             android:label="@string/title_activity_registration"
-            android:parentActivityName="com.example.app01.MainActivity" >
+            android:parentActivityName="com.example.app01.MainActivity" 
+            android:screenOrientation="portrait" >"
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.app01.MainActivity" />
