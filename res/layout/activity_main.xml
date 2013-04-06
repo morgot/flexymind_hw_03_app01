@@ -15,7 +15,8 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="167dp"
-        android:text="@string/sign_up" />
+        android:text="@string/sign_up"
+        android:onClick="goToRegistrationActivity" />
 
     <Button
         android:id="@+id/button1"
@@ -23,6 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/button2"
         android:layout_below="@+id/button2"
-        android:text="@string/exit" />
+        android:text="@string/exit"
+        android:onClick="finishMainActivity" />
 
 </RelativeLayout>
